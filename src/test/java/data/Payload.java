@@ -52,5 +52,15 @@ public class Payload {
 				+ "  ]\r\n"
 				+ "}";
 	}
+	
+	public static String addBook(String isbn, String aisle) {
+		return "{\r\n"
+				+ "  \"name\": \"Kujo\",\r\n"
+				+ "  \"isbn\": \""+isbn+"\",\r\n"
+				+ "  \"aisle\": \""+aisle+"\",\r\n"
+				+ "  \"author\": \"Stephen King\"\r\n"
+				+ "  \r\n"
+				+ "}";
+	}
 
 }
