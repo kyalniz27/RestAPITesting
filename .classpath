@@ -25,5 +25,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Daye/Downloads/testng-7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daye/Downloads/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daye/Downloads/jackson-core-2.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daye/Downloads/jackson-annotations-2.16.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Daye/Downloads/jackson-databind-2.16.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
